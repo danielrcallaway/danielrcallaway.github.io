@@ -4,8 +4,8 @@ body {
 image.resize {
 	width:auto;
 	height:auto;
-	max-width: 90px
-	max-height: 90px
+	max-width: 90px;
+	max-height: 90px;
 }
 h1{
   /* Center all <h1></h1> tags */
