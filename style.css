@@ -1,10 +1,17 @@
+@charset "UTF-8";
+html {
+	padding: 20px;
+}
 body {
   background-color: gray;
+  font-family: Helvetica, Arial, "sans-serif";
+	padding: 10px;
+	margin-left: 20px;
+	margin-right: 20px;
   }
 
 h1{
-  /* Center all <h1></h1> tags */
-  text-align: center;
+    text-align: center;
 }
 
 
