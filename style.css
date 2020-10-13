@@ -1,3 +1,14 @@
+@charset "UTF-8"
 body {
   background-color: gray;
   }
+
+h1{
+  /* Center all <h1></h1> tags */
+  text-align: center;
+}
+
+h2{
+    /* Center all <h2></h2> tags */
+	text-align: center;
+}
