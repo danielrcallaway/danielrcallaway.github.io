@@ -1,7 +1,10 @@
 body {
   background-color: gray;
   }
-
+image.resize {
+	width:540px;
+	height: auto;
+}
 h1{
   /* Center all <h1></h1> tags */
   text-align: center;
