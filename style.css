@@ -1,11 +1,7 @@
 body {
   background-color: gray;
   }
-image {
-	width:100px;
-	height:100px;
-	object-fit: cover;
-}
+
 h1{
   /* Center all <h1></h1> tags */
   text-align: center;
