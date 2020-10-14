@@ -21,4 +21,8 @@ h2{
 	padding-top: 12px;
 	padding-bottom: 10px;
 }
-
+.year {
+	float: right;
+	width: 200px;
+	text-align: right;
+}
