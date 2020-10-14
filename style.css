@@ -13,5 +13,12 @@ body {
 h1{
     text-align: center;
 }
-
+h2{
+	text-align: center;
+	border-top: solid thin #000;
+	border-bottom: solid thin #000;
+	background-color: #c0c0c0;
+	padding-top: 12px;
+	padding-bottom: 10px;
+}
 
